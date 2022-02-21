@@ -1,4 +1,4 @@
-### Hi, Im ryns, 15 years old, Developer for 3 years.
+### Hi, I'm Ryns!
 
 - 🔭 I’m currently working on a new NPM package!
 
