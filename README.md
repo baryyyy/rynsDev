@@ -1,6 +1,6 @@
 ### Hi, I'm Ryns!
 
-- 🔭 I’m currently working on a new NPM package!
+- 🔭 I’m currently working on an advanced csgo rolling website & on a brand new portfolio website.
 
 
 ## 💻 Programming languages:
